@@ -51,7 +51,7 @@ while True:
         elif valordacedula == 0.10:
             valordacedula = 0.05 
         elif valordacedula == 0.05:
-            valordacedula, 2 = 0.01
+            valordacedula = 0.01
             break
         cedulas = 0
 
